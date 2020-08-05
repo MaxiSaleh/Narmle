@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narmle", "Narmle\Narmle.csproj", "{FE55E350-A448-4457-95E8-DD3D84ED5942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE55E350-A448-4457-95E8-DD3D84ED5942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE55E350-A448-4457-95E8-DD3D84ED5942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE55E350-A448-4457-95E8-DD3D84ED5942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE55E350-A448-4457-95E8-DD3D84ED5942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B3B8D5D-B122-499C-B63B-7ABD489209EB}
+	EndGlobalSection
+EndGlobal
